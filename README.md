@@ -2,9 +2,6 @@
 ### Hello, Devs!!
 
 
-
-
-
 - 🔭 I’m currently working on Mercado Eletrônico
 
 
@@ -14,13 +11,6 @@
 ### Estou aprendendo também:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   
 
-### Contatos:
-
-<div>
-
-<a href = "mailto:ariellopes888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ariel-lisboa-lopes-6ba7a7168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <div>
 <a href="https://github.com/ArielLopes888">
@@ -29,3 +19,11 @@
 </div>
 
 ![Snake animation](https://https://github.com/ArielLopes888/ArielLopes888/blob/output/github-contribution-grid-snake.svg)
+
+### Contatos:
+
+<div>
+
+<a href = "mailto:ariellopes888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ariel-lisboa-lopes-6ba7a7168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
