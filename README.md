@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Mercado ELetrônico
+- 🔭 I’m currently working on Mercado Eletrônico
 
 
 ### Ferramentas e Tecnologias:
