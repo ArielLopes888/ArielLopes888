@@ -20,8 +20,6 @@
 </div>
 
 
-![Snake animation](https://github.com/ArielLopes888/ArielLopes888/blob/output/github-contribution-grid-snake.svg)
-
 ### Contatos:
 
 <div>
